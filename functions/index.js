@@ -1,0 +1,1 @@
+exports.setLotStatus = require('./setLotStatus').setLotStatus;
