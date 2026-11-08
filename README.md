@@ -1,6 +1,6 @@
 # Parkiti Admin
 
-React and Vite admin dashboard for monitoring Parkiti parking operations.
+Is a react and Vite admin dashboard for monitoring Parkiti parking operations and support.
 
 ## Run locally
 
